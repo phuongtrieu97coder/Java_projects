@@ -7,21 +7,21 @@
 
 <br>
 
-# 1.Purpose:
+# 1. Purpose:
 
-- This repository contains all the projects that have been made using Java files that combines Java and other languages most of the time. 
+- This repository contains all the projects that have been made using Java files that combine Java and other languages most of the time. 
 
-> Projects can very in different sizes. In addition, projects in this repository can exist in other repository.
+> Projects can vary in different sizes. In addition, projects in this repository can exist in other repositories.
 
 
-# 2.Technologies:
+# 2. Technologies:
 
-### a.Programming languages:
+### a. Programming languages:
 
 ![Static Badge](https://img.shields.io/badge/Java-Java-orange)
 
 
-### b.IDE,Software:
+### b. IDE, Software:
 ![image](https://github.com/phuongtrieu97coder/Java_projects/assets/82598726/4776c1a3-a4eb-45c1-867e-69f362a44b1c) ![image](https://github.com/phuongtrieu97coder/Java_projects/assets/82598726/bc926450-1152-4e87-8b4e-14e752f15772) ![image](https://github.com/phuongtrieu97coder/Java_projects/assets/82598726/46b43814-df5b-4876-b1c1-f0315aaa59c7) ![image](https://github.com/phuongtrieu97coder/Java_projects/assets/82598726/f2ef1510-e267-41a3-8a45-5fce1096412c) ![image](https://user-images.githubusercontent.com/82598726/181828247-0a180433-7628-45d0-91fc-c653225c57aa.png)  ![image](https://user-images.githubusercontent.com/82598726/181830045-2769b49a-2b5a-43ad-b519-5ae02d5b736a.png)
 
 
